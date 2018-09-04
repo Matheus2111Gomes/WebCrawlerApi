@@ -4,13 +4,13 @@ Possui como proposito receber uma lista de URLs e encontrar nas paginas paragraf
 
 # Instalação
 
-*Faça o download dos arquivos
+*Faça o download dos arquivos </n>
 *No seu terminal, navegue até o diretorio dos arquivos baixados e utilize o comando pip install -r requirements.txt para que seja instalado os frameworks necessario (recomendado criar um ambiente virtual para a instalação utilizando venv)
 
 # Utilização
 
-*Execute o arquivo "main.py" no terminal
-*Assim que o servidor local estiver disponivel, entre em seu navegador e digite:
+*Execute o arquivo "main.py" no terminal </n>
+*Assim que o servidor local estiver disponivel, entre em seu navegador e digite: </n>
 
 http://127.0.0.1:8000/api?sites=siteUm,siteDois,siteTres&word=palavra
 
