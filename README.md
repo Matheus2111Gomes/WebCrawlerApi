@@ -14,7 +14,7 @@ Possui como proposito receber uma lista de URLs e encontrar nas paginas paragraf
 
 http://127.0.0.1:8000/api?sites=siteUm,siteDois,siteTres&word=palavra
 
-#####Obs: Passe os parametros de sites com uma virgula (,) separando-os
+##### Obs: Passe os parametros de sites com uma virgula (,) separando-os
 
 Após a execução, será exibido no navegador um json contendo a url do site e o numero de ocorrencias da palavra no mesmo
 (é possivel ver cada uma das ocorrencias no terminal ao fim da execução do codigo.
