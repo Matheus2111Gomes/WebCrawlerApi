@@ -1,0 +1,17 @@
+atomicwrites==1.2.1
+attrs==18.2.0
+beautifulsoup4==4.6.3
+bs4==0.0.1
+click==6.7
+colorama==0.3.9
+Flask==1.0.2
+Flask-Cache==0.13.1
+itsdangerous==0.24
+Jinja2==2.10
+MarkupSafe==1.0
+more-itertools==4.3.0
+pluggy==0.7.1
+py==1.6.0
+pytest==3.7.4
+six==1.11.0
+Werkzeug==0.14.1
