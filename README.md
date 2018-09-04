@@ -5,7 +5,7 @@ Possui como propósito receber uma lista de URLs e encontrar nas páginas, pará
 ### Instalação
 
 *Faça o download dos arquivos.   
-*Nela será encontrado o arquivo requirements.txt, certifiques-se de que seja instalado todos os frameworks listados no arquivo.
+*Entre eles será encontrado o arquivo requirements.txt, certifiques-se de que seja instalado todos os frameworks listados no arquivo.
 
 ### Utilização
 
